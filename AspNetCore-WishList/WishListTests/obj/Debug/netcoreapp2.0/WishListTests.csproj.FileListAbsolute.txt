@@ -1,0 +1,17 @@
+C:\Users\Paul\Documents\a\GitHub\AspNetCore-WishList\WishListTests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Paul\Documents\a\GitHub\AspNetCore-WishList\WishListTests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Paul\Documents\a\GitHub\AspNetCore-WishList\WishListTests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Paul\Documents\a\GitHub\AspNetCore-WishList\WishListTests\bin\Debug\netcoreapp2.0\WishListTests.deps.json
+C:\Users\Paul\Documents\a\GitHub\AspNetCore-WishList\WishListTests\bin\Debug\netcoreapp2.0\WishListTests.runtimeconfig.json
+C:\Users\Paul\Documents\a\GitHub\AspNetCore-WishList\WishListTests\bin\Debug\netcoreapp2.0\WishListTests.runtimeconfig.dev.json
+C:\Users\Paul\Documents\a\GitHub\AspNetCore-WishList\WishListTests\bin\Debug\netcoreapp2.0\WishListTests.dll
+C:\Users\Paul\Documents\a\GitHub\AspNetCore-WishList\WishListTests\bin\Debug\netcoreapp2.0\WishListTests.pdb
+C:\Users\Paul\Documents\a\GitHub\AspNetCore-WishList\WishListTests\bin\Debug\netcoreapp2.0\WishList.dll
+C:\Users\Paul\Documents\a\GitHub\AspNetCore-WishList\WishListTests\bin\Debug\netcoreapp2.0\WishList.pdb
+C:\Users\Paul\Documents\a\GitHub\AspNetCore-WishList\WishListTests\obj\Debug\netcoreapp2.0\WishListTests.csprojAssemblyReference.cache
+C:\Users\Paul\Documents\a\GitHub\AspNetCore-WishList\WishListTests\obj\Debug\netcoreapp2.0\WishListTests.csproj.CoreCompileInputs.cache
+C:\Users\Paul\Documents\a\GitHub\AspNetCore-WishList\WishListTests\obj\Debug\netcoreapp2.0\WishListTests.AssemblyInfoInputs.cache
+C:\Users\Paul\Documents\a\GitHub\AspNetCore-WishList\WishListTests\obj\Debug\netcoreapp2.0\WishListTests.AssemblyInfo.cs
+C:\Users\Paul\Documents\a\GitHub\AspNetCore-WishList\WishListTests\obj\Debug\netcoreapp2.0\WishListTests.csproj.CopyComplete
+C:\Users\Paul\Documents\a\GitHub\AspNetCore-WishList\WishListTests\obj\Debug\netcoreapp2.0\WishListTests.dll
+C:\Users\Paul\Documents\a\GitHub\AspNetCore-WishList\WishListTests\obj\Debug\netcoreapp2.0\WishListTests.pdb
